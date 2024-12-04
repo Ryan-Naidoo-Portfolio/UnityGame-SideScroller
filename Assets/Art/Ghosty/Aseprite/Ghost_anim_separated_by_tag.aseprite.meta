@@ -1,0 +1,2024 @@
+fileFormatVersion: 2
+guid: 4d32bd4defb1f2b4a902ea196d42b6f4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Ghost_anim_separated_by_tag_Frame_0
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 420
+      width: 15
+      height: 25
+    spriteID: a32ed9dc292e36b4980d34fd665744d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 420}
+  - name: Ghost_anim_separated_by_tag_Frame_1
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 380
+      width: 15
+      height: 24
+    spriteID: d2df71a7dab0875438c8c8f215274db3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 380}
+  - name: Ghost_anim_separated_by_tag_Frame_2
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.88}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 453
+      width: 15
+      height: 25
+    spriteID: 9678a775c479f8245a1a3effca7b3cbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 453}
+  - name: Ghost_anim_separated_by_tag_Frame_3
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.9583334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 412
+      width: 15
+      height: 24
+    spriteID: d84d293396e587b4fac0c18b546f797d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 412}
+  - name: Ghost_anim_separated_by_tag_Frame_4
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 56
+      width: 15
+      height: 25
+    spriteID: e2b1bc009b552884987b0c6587aff94b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 56}
+  - name: Ghost_anim_separated_by_tag_Frame_5
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 89
+      width: 15
+      height: 25
+    spriteID: 6d4a4caf1d42b2041a25d3cf7acc2c30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 89}
+  - name: Ghost_anim_separated_by_tag_Frame_6
+    originalName: 
+    pivot: {x: 0.53846145, y: -0.79999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 56
+      width: 13
+      height: 25
+    spriteID: b2dcadac5e723c34aad0084ba09498ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 56}
+  - name: Ghost_anim_separated_by_tag_Frame_7
+    originalName: 
+    pivot: {x: 0.66666657, y: -1.3000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 354
+      width: 21
+      height: 20
+    spriteID: f6de5e0b3bd48ff49b2faef529462fc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 354}
+  - name: Ghost_anim_separated_by_tag_Frame_8
+    originalName: 
+    pivot: {x: 0.631579, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 354
+      width: 19
+      height: 21
+    spriteID: a02cf6f0b4a311a4eb886ef080ac8934
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 354}
+  - name: Ghost_anim_separated_by_tag_Frame_9
+    originalName: 
+    pivot: {x: 0.631579, y: -1.3684211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 486
+      width: 19
+      height: 19
+    spriteID: dc6feb27949f590428612d28a35506ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 486}
+  - name: Ghost_anim_separated_by_tag_Frame_10
+    originalName: 
+    pivot: {x: 0.631579, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 353
+      width: 19
+      height: 19
+    spriteID: a1947d97340420c4da2a780c01c7fa64
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 353}
+  - name: Ghost_anim_separated_by_tag_Frame_11
+    originalName: 
+    pivot: {x: 0.66666657, y: -1.3684211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 29
+      width: 21
+      height: 19
+    spriteID: 77c4d9332f28dec47b7bccd9900ec395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 29}
+  - name: Ghost_anim_separated_by_tag_Frame_12
+    originalName: 
+    pivot: {x: 0.58333325, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 223
+      width: 12
+      height: 25
+    spriteID: 1e9ce9613bde5414eb46c988ece95df8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 223}
+  - name: Ghost_anim_separated_by_tag_Frame_13
+    originalName: 
+    pivot: {x: 0.58823544, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 27
+      width: 17
+      height: 21
+    spriteID: 1b90355c6e5f3cb47a5d564418b83ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 27}
+  - name: Ghost_anim_separated_by_tag_Frame_14
+    originalName: 
+    pivot: {x: 0.6190476, y: -1.3000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 382
+      width: 21
+      height: 20
+    spriteID: aba7e89a6925a5f45b2eb44fc6ba311f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 382}
+  - name: Ghost_anim_separated_by_tag_Frame_15
+    originalName: 
+    pivot: {x: 0.63636357, y: -1.4210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 410
+      width: 22
+      height: 19
+    spriteID: 09884def63e48a849aa6c4fc98c1471f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 410}
+  - name: Ghost_anim_separated_by_tag_Frame_16
+    originalName: 
+    pivot: {x: 0.63636357, y: -1.3000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 264
+      width: 22
+      height: 20
+    spriteID: cd4c5f61dffcfb44baad1a6a66ea4872
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 264}
+  - name: Ghost_anim_separated_by_tag_Frame_17
+    originalName: 
+    pivot: {x: 0.6521738, y: -1.3000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 180
+      width: 23
+      height: 20
+    spriteID: 80b243ba6b090364a923625da392f3ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 180}
+  - name: Ghost_anim_separated_by_tag_Frame_18
+    originalName: 
+    pivot: {x: 0.6521738, y: -1.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 208
+      width: 23
+      height: 20
+    spriteID: 537a35d982871bf4d8c2033acf3b14c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 208}
+  - name: Ghost_anim_separated_by_tag_Frame_19
+    originalName: 
+    pivot: {x: 0.6521738, y: -1.3157895}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 292
+      width: 23
+      height: 19
+    spriteID: 337c4aacfb26a8a4b8fe233ffb47b7e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 292}
+  - name: Ghost_anim_separated_by_tag_Frame_20
+    originalName: 
+    pivot: {x: 0.63636357, y: -1.3684211}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 437
+      width: 22
+      height: 19
+    spriteID: cdd2a2ea0ec152848a1d25e4b54c63a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 437}
+  - name: Ghost_anim_separated_by_tag_Frame_21
+    originalName: 
+    pivot: {x: 0.6521738, y: -1.3000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 236
+      width: 23
+      height: 20
+    spriteID: 7930e25baf453c3429572be83ceaa02d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 236}
+  - name: Ghost_anim_separated_by_tag_Frame_22
+    originalName: 
+    pivot: {x: 0.6400001, y: -1.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 490
+      width: 25
+      height: 18
+    spriteID: 0f7d7ffe8fcfd664aab4899893470aed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 490}
+  - name: Ghost_anim_separated_by_tag_Frame_23
+    originalName: 
+    pivot: {x: 0.6400001, y: -1.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 461
+      width: 25
+      height: 21
+    spriteID: e743222e1cc7a5b4eb33a39cebbfc937
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 461}
+  - name: Ghost_anim_separated_by_tag_Frame_24
+    originalName: 
+    pivot: {x: 0.57692295, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 4
+      width: 26
+      height: 15
+    spriteID: b766afc2bec27624c9fd62ad0d81ac02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 4}
+  - name: Ghost_anim_separated_by_tag_Frame_25
+    originalName: 
+    pivot: {x: 0.5333334, y: -1.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 341
+      width: 30
+      height: 20
+    spriteID: 181474e388ba55941aa7403e981c315b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 341}
+  - name: Ghost_anim_separated_by_tag_Frame_26
+    originalName: 
+    pivot: {x: 0.12499997, y: -0.88}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 147
+      width: 64
+      height: 25
+    spriteID: 42c9ad455fc1b554ea4ddf9805e5cb63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 147}
+  - name: Ghost_anim_separated_by_tag_Frame_27
+    originalName: 
+    pivot: {x: 0.10714283, y: -0.95652175}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 77
+      width: 84
+      height: 23
+    spriteID: 13806751f09f4e74283cfac401e51d0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 77}
+  - name: Ghost_anim_separated_by_tag_Frame_28
+    originalName: 
+    pivot: {x: -1.6206897, y: -1.0454546}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 311
+      width: 29
+      height: 22
+    spriteID: 310899e2f97dc71438ee0b8686ade2a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 311}
+  - name: Ghost_anim_separated_by_tag_Frame_29
+    originalName: 
+    pivot: {x: -2.2592592, y: -1.0476191}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 398
+      width: 27
+      height: 21
+    spriteID: 6672c393d57dc244aaf92e70bdb5b95f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 398}
+  - name: Ghost_anim_separated_by_tag_Frame_30
+    originalName: 
+    pivot: {x: -4.444444, y: -0.86956525}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 464
+      width: 18
+      height: 23
+    spriteID: 65bb6b51e010a0d4cb140127967f5f12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 464}
+  - name: Ghost_anim_separated_by_tag_Frame_31
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 122
+      width: 15
+      height: 25
+    spriteID: 3fb5cea451dfd284bb2a47a670fc1351
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 122}
+  - name: Ghost_anim_separated_by_tag_Frame_32
+    originalName: 
+    pivot: {x: 0.61538446, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 89
+      width: 13
+      height: 25
+    spriteID: 66e51827094982d44bda27f644e8ee87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 89}
+  - name: Ghost_anim_separated_by_tag_Frame_33
+    originalName: 
+    pivot: {x: 0.4666666, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 284
+      width: 15
+      height: 27
+    spriteID: 5c977388feb845e47998268721c066d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 284}
+  - name: Ghost_anim_separated_by_tag_Frame_34
+    originalName: 
+    pivot: {x: 0.5263159, y: -0.7407408}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 180
+      width: 19
+      height: 27
+    spriteID: bedd3adf66d3d3649a680285a9fa797c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 180}
+  - name: Ghost_anim_separated_by_tag_Frame_35
+    originalName: 
+    pivot: {x: 0.74999976, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 188
+      width: 12
+      height: 27
+    spriteID: e650ef1256a662d44a7764092afb1cf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 188}
+  - name: Ghost_anim_separated_by_tag_Frame_36
+    originalName: 
+    pivot: {x: 0.6923075, y: -0.5862069}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 383
+      width: 13
+      height: 29
+    spriteID: 09cdf548da4e82c49ae5656548884ac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 383}
+  - name: Ghost_anim_separated_by_tag_Frame_37
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 155
+      width: 15
+      height: 25
+    spriteID: 03e3fd8a1ba2ca746aad46a7880692b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 155}
+  - name: Ghost_anim_separated_by_tag_Frame_38
+    originalName: 
+    pivot: {x: 0.61538446, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 122
+      width: 13
+      height: 25
+    spriteID: 16b0a1d11295f1b448dd0f17c4f709a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 122}
+  - name: Ghost_anim_separated_by_tag_Frame_39
+    originalName: 
+    pivot: {x: 0.4666666, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 319
+      width: 15
+      height: 27
+    spriteID: f40d195b6e517db49aabb6ae86c059ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 319}
+  - name: Ghost_anim_separated_by_tag_Frame_40
+    originalName: 
+    pivot: {x: 0.5263159, y: -0.7407408}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 215
+      width: 19
+      height: 27
+    spriteID: 1ca50b4f66dbe0348974e1ea62e64155
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 215}
+  - name: Ghost_anim_separated_by_tag_Frame_41
+    originalName: 
+    pivot: {x: 0.6250001, y: -0.7407408}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 319
+      width: 16
+      height: 27
+    spriteID: 92bae8184b862a1438e4517aa1d118e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 319}
+  - name: Ghost_anim_separated_by_tag_Frame_42
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.80769235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 250
+      width: 18
+      height: 26
+    spriteID: 7fcc1198007f8b14a872d4eeb0517849
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 250}
+  - name: Ghost_anim_separated_by_tag_Frame_43
+    originalName: 
+    pivot: {x: 0.9047619, y: -0.80769235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 427
+      width: 21
+      height: 26
+    spriteID: 20f1a29c1112d9f4594c1b1f6363f5b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 427}
+  - name: Ghost_anim_separated_by_tag_Frame_44
+    originalName: 
+    pivot: {x: 0.9230769, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 147
+      width: 26
+      height: 25
+    spriteID: e341205d8b0fb664489619f703338ea4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 147}
+  - name: Ghost_anim_separated_by_tag_Frame_45
+    originalName: 
+    pivot: {x: 1.1212121, y: -1.0909091}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 247
+      width: 33
+      height: 22
+    spriteID: fcc13174a6114e2449f616def026ddb9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 247}
+  - name: Ghost_anim_separated_by_tag_Frame_46
+    originalName: 
+    pivot: {x: 1.2857143, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 218
+      width: 35
+      height: 21
+    spriteID: 254a536d3b4f513489cd9555422e912d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 218}
+  - name: Ghost_anim_separated_by_tag_Frame_47
+    originalName: 
+    pivot: {x: 1.7142857, y: -1.1428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 369
+      width: 28
+      height: 21
+    spriteID: 16688e13a9232f04ca30abf0104b34d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 369}
+  - name: Ghost_anim_separated_by_tag_Frame_48
+    originalName: 
+    pivot: {x: 2.208333, y: -1.4705882}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 4
+      width: 24
+      height: 17
+    spriteID: c6171025187d43d48b56c0001812a90c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 4}
+  - name: Ghost_anim_separated_by_tag_Frame_49
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 188
+      width: 15
+      height: 25
+    spriteID: 2ac3c474fdb53cf40b67528c4a8b7430
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 188}
+  - name: Ghost_anim_separated_by_tag_Frame_50
+    originalName: 
+    pivot: {x: 0.45454556, y: -0.80769235}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 256
+      width: 11
+      height: 26
+    spriteID: 3acc6f86ede8c3b4593ed99659c58d33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 256}
+  - name: Ghost_anim_separated_by_tag_Frame_51
+    originalName: 
+    pivot: {x: 0.4000002, y: -0.91999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 38
+      width: 10
+      height: 25
+    spriteID: 9146e248bce0117489d15add56a3acd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 38}
+  - name: Ghost_anim_separated_by_tag_Frame_52
+    originalName: 
+    pivot: {x: 0.16000009, y: -0.8846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 277
+      width: 25
+      height: 26
+    spriteID: 1aaded9cf9cb1484eb18b59cd4b3862d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 277}
+  - name: Ghost_anim_separated_by_tag_Frame_53
+    originalName: 
+    pivot: {x: 0.14285722, y: -0.8148148}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 73
+      y: 108
+      width: 28
+      height: 27
+    spriteID: 2cc47cf01c7726248b5ad29204dd494d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 73, y: 108}
+  - name: Ghost_anim_separated_by_tag_Frame_54
+    originalName: 
+    pivot: {x: 0.2894737, y: -0.6333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 180
+      width: 38
+      height: 30
+    spriteID: 39b955a9288f8fd4d9680ec9d437f89d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 180}
+  - name: Ghost_anim_separated_by_tag_Frame_55
+    originalName: 
+    pivot: {x: 0.1311475, y: -0.58064514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 108
+      width: 61
+      height: 31
+    spriteID: 691bd3873c57e4b4a8a5b08965b55bef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 108}
+  - name: Ghost_anim_separated_by_tag_Frame_56
+    originalName: 
+    pivot: {x: 0.07228916, y: -0.58064514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 83
+      height: 31
+    spriteID: 32124a8a0d8589047ae179d4b198686c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: Ghost_anim_separated_by_tag_Frame_57
+    originalName: 
+    pivot: {x: 0.039603982, y: -0.8846154}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 101
+      height: 26
+    spriteID: 54a5d642fc35f7d439e18b7d215422b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Ghost_anim_separated_by_tag_Frame_58
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 221
+      width: 15
+      height: 25
+    spriteID: fb04625093377cb44a42e621a8bfd2af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 221}
+  - name: Ghost_anim_separated_by_tag_Frame_59
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.9166667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 444
+      width: 15
+      height: 24
+    spriteID: 2cc43117513fe9b4a839be51ec49f11a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 444}
+  - name: Ghost_anim_separated_by_tag_Frame_60
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.88}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 254
+      width: 15
+      height: 25
+    spriteID: 77b237f46f4b5194088a41d0fb50e555
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 254}
+  - name: Ghost_anim_separated_by_tag_Frame_61
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.9583334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 476
+      width: 15
+      height: 24
+    spriteID: f99c5b8af4f1ceb40ab0388b2e07c64c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 476}
+  - name: Ghost_anim_separated_by_tag_Frame_62
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 287
+      width: 15
+      height: 25
+    spriteID: e5251e19c8988844c954e85fe57fced1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 287}
+  - name: Ghost_anim_separated_by_tag_Frame_63
+    originalName: 
+    pivot: {x: 0.5999998, y: -0.84}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 113
+      y: 320
+      width: 15
+      height: 25
+    spriteID: 63bd852eaef95a34bbc7243752a995ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 113, y: 320}
+  - name: Ghost_anim_separated_by_tag_Frame_64
+    originalName: 
+    pivot: {x: 0.53846145, y: -0.79999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 155
+      width: 13
+      height: 25
+    spriteID: b2ada10ba14294c4dab83cb58dac6814
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 155}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 689690622
+    name: Ghost_anim_separated_by_tag
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Ghost_anim_separated_by_tag_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: a32ed9dc292e36b4980d34fd665744d1
+    - name: Ghost_anim_separated_by_tag_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 22
+        width: 15
+        height: 24
+      spriteId: d2df71a7dab0875438c8c8f215274db3
+    - name: Ghost_anim_separated_by_tag_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 22
+        width: 15
+        height: 25
+      spriteId: 9678a775c479f8245a1a3effca7b3cbb
+    - name: Ghost_anim_separated_by_tag_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 23
+        width: 15
+        height: 24
+      spriteId: d84d293396e587b4fac0c18b546f797d
+    - name: Ghost_anim_separated_by_tag_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: e2b1bc009b552884987b0c6587aff94b
+    - name: Ghost_anim_separated_by_tag_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: 6d4a4caf1d42b2041a25d3cf7acc2c30
+    - name: Ghost_anim_separated_by_tag_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 93
+        y: 20
+        width: 13
+        height: 25
+      spriteId: b2dcadac5e723c34aad0084ba09498ed
+    - name: Ghost_anim_separated_by_tag_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 86
+        y: 26
+        width: 21
+        height: 20
+      spriteId: f6de5e0b3bd48ff49b2faef529462fc0
+    - name: Ghost_anim_separated_by_tag_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 88
+        y: 25
+        width: 19
+        height: 21
+      spriteId: a02cf6f0b4a311a4eb886ef080ac8934
+    - name: Ghost_anim_separated_by_tag_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 88
+        y: 26
+        width: 19
+        height: 19
+      spriteId: dc6feb27949f590428612d28a35506ff
+    - name: Ghost_anim_separated_by_tag_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 88
+        y: 25
+        width: 19
+        height: 19
+      spriteId: a1947d97340420c4da2a780c01c7fa64
+    - name: Ghost_anim_separated_by_tag_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 86
+        y: 26
+        width: 21
+        height: 19
+      spriteId: 77c4d9332f28dec47b7bccd9900ec395
+    - name: Ghost_anim_separated_by_tag_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 93
+        y: 21
+        width: 12
+        height: 25
+      spriteId: 1e9ce9613bde5414eb46c988ece95df8
+    - name: Ghost_anim_separated_by_tag_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 90
+        y: 25
+        width: 17
+        height: 21
+      spriteId: 1b90355c6e5f3cb47a5d564418b83ec4
+    - name: Ghost_anim_separated_by_tag_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 87
+        y: 26
+        width: 21
+        height: 20
+      spriteId: aba7e89a6925a5f45b2eb44fc6ba311f
+    - name: Ghost_anim_separated_by_tag_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 86
+        y: 27
+        width: 22
+        height: 19
+      spriteId: 09884def63e48a849aa6c4fc98c1471f
+    - name: Ghost_anim_separated_by_tag_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 86
+        y: 26
+        width: 22
+        height: 20
+      spriteId: cd4c5f61dffcfb44baad1a6a66ea4872
+    - name: Ghost_anim_separated_by_tag_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 85
+        y: 26
+        width: 23
+        height: 20
+      spriteId: 80b243ba6b090364a923625da392f3ed
+    - name: Ghost_anim_separated_by_tag_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 85
+        y: 25
+        width: 23
+        height: 20
+      spriteId: 537a35d982871bf4d8c2033acf3b14c6
+    - name: Ghost_anim_separated_by_tag_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 85
+        y: 25
+        width: 23
+        height: 19
+      spriteId: 337c4aacfb26a8a4b8fe233ffb47b7e2
+    - name: Ghost_anim_separated_by_tag_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 86
+        y: 26
+        width: 22
+        height: 19
+      spriteId: cdd2a2ea0ec152848a1d25e4b54c63a9
+    - name: Ghost_anim_separated_by_tag_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 85
+        y: 26
+        width: 23
+        height: 20
+      spriteId: 7930e25baf453c3429572be83ceaa02d
+    - name: Ghost_anim_separated_by_tag_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 84
+        y: 28
+        width: 25
+        height: 18
+      spriteId: 0f7d7ffe8fcfd664aab4899893470aed
+    - name: Ghost_anim_separated_by_tag_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 84
+        y: 25
+        width: 25
+        height: 21
+      spriteId: e743222e1cc7a5b4eb33a39cebbfc937
+    - name: Ghost_anim_separated_by_tag_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 85
+        y: 30
+        width: 26
+        height: 15
+      spriteId: b766afc2bec27624c9fd62ad0d81ac02
+    - name: Ghost_anim_separated_by_tag_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 84
+        y: 24
+        width: 30
+        height: 20
+      spriteId: 181474e388ba55941aa7403e981c315b
+    - name: Ghost_anim_separated_by_tag_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 92
+        y: 22
+        width: 64
+        height: 25
+      spriteId: 42c9ad455fc1b554ea4ddf9805e5cb63
+    - name: Ghost_anim_separated_by_tag_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 22
+        width: 84
+        height: 23
+      spriteId: 13806751f09f4e74283cfac401e51d0a
+    - name: Ghost_anim_separated_by_tag_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 147
+        y: 23
+        width: 29
+        height: 22
+      spriteId: 310899e2f97dc71438ee0b8686ade2a3
+    - name: Ghost_anim_separated_by_tag_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 161
+        y: 22
+        width: 27
+        height: 21
+      spriteId: 6672c393d57dc244aaf92e70bdb5b95f
+    - name: Ghost_anim_separated_by_tag_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 180
+        y: 20
+        width: 18
+        height: 23
+      spriteId: 65bb6b51e010a0d4cb140127967f5f12
+    - name: Ghost_anim_separated_by_tag_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: 3fb5cea451dfd284bb2a47a670fc1351
+    - name: Ghost_anim_separated_by_tag_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 92
+        y: 21
+        width: 13
+        height: 25
+      spriteId: 66e51827094982d44bda27f644e8ee87
+    - name: Ghost_anim_separated_by_tag_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 93
+        y: 19
+        width: 15
+        height: 27
+      spriteId: 5c977388feb845e47998268721c066d4
+    - name: Ghost_anim_separated_by_tag_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 90
+        y: 20
+        width: 19
+        height: 27
+      spriteId: bedd3adf66d3d3649a680285a9fa797c
+    - name: Ghost_anim_separated_by_tag_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 19
+        width: 12
+        height: 27
+      spriteId: e650ef1256a662d44a7764092afb1cf5
+    - name: Ghost_anim_separated_by_tag_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 17
+        width: 13
+        height: 29
+      spriteId: 09cdf548da4e82c49ae5656548884ac0
+    - name: Ghost_anim_separated_by_tag_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: 03e3fd8a1ba2ca746aad46a7880692b5
+    - name: Ghost_anim_separated_by_tag_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 92
+        y: 21
+        width: 13
+        height: 25
+      spriteId: 16b0a1d11295f1b448dd0f17c4f709a9
+    - name: Ghost_anim_separated_by_tag_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 93
+        y: 19
+        width: 15
+        height: 27
+      spriteId: f40d195b6e517db49aabb6ae86c059ba
+    - name: Ghost_anim_separated_by_tag_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 90
+        y: 20
+        width: 19
+        height: 27
+      spriteId: 1ca50b4f66dbe0348974e1ea62e64155
+    - name: Ghost_anim_separated_by_tag_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 90
+        y: 20
+        width: 16
+        height: 27
+      spriteId: 92bae8184b862a1438e4517aa1d118e7
+    - name: Ghost_anim_separated_by_tag_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 88
+        y: 21
+        width: 18
+        height: 26
+      spriteId: 7fcc1198007f8b14a872d4eeb0517849
+    - name: Ghost_anim_separated_by_tag_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 81
+        y: 21
+        width: 21
+        height: 26
+      spriteId: 20f1a29c1112d9f4594c1b1f6363f5b7
+    - name: Ghost_anim_separated_by_tag_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 76
+        y: 21
+        width: 26
+        height: 25
+      spriteId: e341205d8b0fb664489619f703338ea4
+    - name: Ghost_anim_separated_by_tag_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 63
+        y: 24
+        width: 33
+        height: 22
+      spriteId: fcc13174a6114e2449f616def026ddb9
+    - name: Ghost_anim_separated_by_tag_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 55
+        y: 24
+        width: 35
+        height: 21
+      spriteId: 254a536d3b4f513489cd9555422e912d
+    - name: Ghost_anim_separated_by_tag_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 52
+        y: 24
+        width: 28
+        height: 21
+      spriteId: 16688e13a9232f04ca30abf0104b34d3
+    - name: Ghost_anim_separated_by_tag_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 47
+        y: 25
+        width: 24
+        height: 17
+      spriteId: c6171025187d43d48b56c0001812a90c
+    - name: Ghost_anim_separated_by_tag_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: 2ac3c474fdb53cf40b67528c4a8b7430
+    - name: Ghost_anim_separated_by_tag_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 95
+        y: 21
+        width: 11
+        height: 26
+      spriteId: 3acc6f86ede8c3b4593ed99659c58d33
+    - name: Ghost_anim_separated_by_tag_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 96
+        y: 23
+        width: 10
+        height: 25
+      spriteId: 9146e248bce0117489d15add56a3acd3
+    - name: Ghost_anim_separated_by_tag_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 96
+        y: 23
+        width: 25
+        height: 26
+      spriteId: 1aaded9cf9cb1484eb18b59cd4b3862d
+    - name: Ghost_anim_separated_by_tag_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 96
+        y: 22
+        width: 28
+        height: 27
+      spriteId: 2cc47cf01c7726248b5ad29204dd494d
+    - name: Ghost_anim_separated_by_tag_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 89
+        y: 19
+        width: 38
+        height: 30
+      spriteId: 39b955a9288f8fd4d9680ec9d437f89d
+    - name: Ghost_anim_separated_by_tag_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 92
+        y: 18
+        width: 61
+        height: 31
+      spriteId: 691bd3873c57e4b4a8a5b08965b55bef
+    - name: Ghost_anim_separated_by_tag_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 94
+        y: 18
+        width: 83
+        height: 31
+      spriteId: 32124a8a0d8589047ae179d4b198686c
+    - name: Ghost_anim_separated_by_tag_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 96
+        y: 23
+        width: 101
+        height: 26
+      spriteId: 54a5d642fc35f7d439e18b7d215422b0
+    - name: Ghost_anim_separated_by_tag_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: fb04625093377cb44a42e621a8bfd2af
+    - name: Ghost_anim_separated_by_tag_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 22
+        width: 15
+        height: 24
+      spriteId: 2cc43117513fe9b4a839be51ec49f11a
+    - name: Ghost_anim_separated_by_tag_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 22
+        width: 15
+        height: 25
+      spriteId: 77b237f46f4b5194088a41d0fb50e555
+    - name: Ghost_anim_separated_by_tag_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 23
+        width: 15
+        height: 24
+      spriteId: f99c5b8af4f1ceb40ab0388b2e07c64c
+    - name: Ghost_anim_separated_by_tag_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: e5251e19c8988844c954e85fe57fced1
+    - name: Ghost_anim_separated_by_tag_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 91
+        y: 21
+        width: 15
+        height: 25
+      spriteId: 63bd852eaef95a34bbc7243752a995ea
+    - name: Ghost_anim_separated_by_tag_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 93
+        y: 20
+        width: 13
+        height: 25
+      spriteId: b2ada10ba14294c4dab83cb58dac6814
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 200, y: 64}

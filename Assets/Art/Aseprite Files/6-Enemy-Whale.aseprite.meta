@@ -1,0 +1,3213 @@
+fileFormatVersion: 2
+guid: 077ab8a7c0444a845925eeea33bcc0b8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 6-Enemy-Whale_Frame_0
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 553
+      width: 64
+      height: 40
+    spriteID: bb635db6135ab3047b2ced076e47aaa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 553}
+  - name: 6-Enemy-Whale_Frame_18
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 601
+      width: 64
+      height: 40
+    spriteID: 624f6f8c4c2e4244e8af49bda3679998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 601}
+  - name: 6-Enemy-Whale_Frame_19
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 627
+      width: 62
+      height: 40
+    spriteID: 0fc14acdcc824b44ead1f01f5678cd7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 627}
+  - name: 6-Enemy-Whale_Frame_20
+    originalName: 
+    pivot: {x: 0.48333332, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 142
+      width: 60
+      height: 40
+    spriteID: 85d10294f0b80c64db59ebeb54d5e948
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 142}
+  - name: 6-Enemy-Whale_Frame_22
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 675
+      width: 62
+      height: 40
+    spriteID: ec02a1ebd899cdb4e9de95433a3f4f6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 675}
+  - name: 6-Enemy-Whale_Frame_24
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 723
+      width: 62
+      height: 40
+    spriteID: 3bf4a86c67186954d866ce26ce65d692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 723}
+  - name: 6-Enemy-Whale_Frame_25
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 100
+      width: 62
+      height: 41
+    spriteID: 32e2906e88bb28a4aa677eb28416b1ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 100}
+  - name: 6-Enemy-Whale_Frame_26
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 149
+      width: 62
+      height: 41
+    spriteID: 0623432bcaf464e4d81e81d70fad86c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 149}
+  - name: 6-Enemy-Whale_Frame_27
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 198
+      width: 62
+      height: 41
+    spriteID: 38489208b572d3a41807858b82f8d25f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 198}
+  - name: 6-Enemy-Whale_Frame_28
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 771
+      width: 62
+      height: 40
+    spriteID: 635a8c192709a0c44b09031a25a57746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 771}
+  - name: 6-Enemy-Whale_Frame_29
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 298
+      width: 64
+      height: 39
+    spriteID: 34d53b680e10e6e4a99a496878a710b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 298}
+  - name: 6-Enemy-Whale_Frame_30
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 345
+      width: 64
+      height: 39
+    spriteID: 4ea6bb393eb6a2640807537a74926fdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 345}
+  - name: 6-Enemy-Whale_Frame_31
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 819
+      width: 62
+      height: 40
+    spriteID: 918167734892c3f48afb11019005692c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 819}
+  - name: 6-Enemy-Whale_Frame_32
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 867
+      width: 62
+      height: 40
+    spriteID: 3a516d858652b324e8bc508f61e95fc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 867}
+  - name: 6-Enemy-Whale_Frame_33
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 915
+      width: 62
+      height: 40
+    spriteID: b0eb6ae722b7c0646b5e50c098aa8475
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 915}
+  - name: 6-Enemy-Whale_Frame_43
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 649
+      width: 64
+      height: 40
+    spriteID: 1a181b36d2fec1d4aab83de8c712a593
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 649}
+  - name: 6-Enemy-Whale_Frame_44
+    originalName: 
+    pivot: {x: 0.484375, y: -0.026315792}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 4
+      width: 64
+      height: 38
+    spriteID: 53a85245024e66547911f7e09720cfcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 4}
+  - name: 6-Enemy-Whale_Frame_45
+    originalName: 
+    pivot: {x: 0.484375, y: -0.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 697
+      width: 64
+      height: 40
+    spriteID: e690d9d729a21fc439589efc5c0dcc51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 697}
+  - name: 6-Enemy-Whale_Frame_46
+    originalName: 
+    pivot: {x: 0.484375, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 745
+      width: 64
+      height: 40
+    spriteID: cedb92db7785655498758d2fe88b27a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 745}
+  - name: 6-Enemy-Whale_Frame_48
+    originalName: 
+    pivot: {x: 0.484375, y: -0.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 793
+      width: 64
+      height: 40
+    spriteID: d1305fde1e7856a4cb3d381b4d0e9eb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 793}
+  - name: 6-Enemy-Whale_Frame_49
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 382
+      width: 66
+      height: 36
+    spriteID: b937f54a740852448977071dadd96ab0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 382}
+  - name: 6-Enemy-Whale_Frame_51
+    originalName: 
+    pivot: {x: 0.484375, y: -0.052631583}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 50
+      width: 64
+      height: 38
+    spriteID: e605ce50f633b9649b34ffff99d0b017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 50}
+  - name: 6-Enemy-Whale_Frame_52
+    originalName: 
+    pivot: {x: 0.484375, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 841
+      width: 64
+      height: 40
+    spriteID: f65c9d5ed3f240749956066efa5e1a04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 841}
+  - name: 6-Enemy-Whale_Frame_53
+    originalName: 
+    pivot: {x: 0.484375, y: -0.12499999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 889
+      width: 64
+      height: 40
+    spriteID: 6eda44629582b9a42bfdff991c54dc36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 889}
+  - name: 6-Enemy-Whale_Frame_55
+    originalName: 
+    pivot: {x: 0.484375, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 937
+      width: 64
+      height: 40
+    spriteID: 721d4dcd362b6a347a6203b6a9a89758
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 937}
+  - name: 6-Enemy-Whale_Frame_56
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 426
+      width: 66
+      height: 36
+    spriteID: 20e443f88d7350f4ca334becc5e1a0ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 426}
+  - name: 6-Enemy-Whale_Frame_58
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 4
+      width: 66
+      height: 38
+    spriteID: 71cc3f4438723be49891f533a688dc11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 4}
+  - name: 6-Enemy-Whale_Frame_59
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.07142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 298
+      width: 62
+      height: 42
+    spriteID: fc82f044a5210274796802164ebe140c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 298}
+  - name: 6-Enemy-Whale_Frame_61
+    originalName: 
+    pivot: {x: 0.484375, y: -0.12499999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 4
+      width: 64
+      height: 40
+    spriteID: 2bb5341d83cc9944ea581ba7adf065a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 4}
+  - name: 6-Enemy-Whale_Frame_62
+    originalName: 
+    pivot: {x: 0.484375, y: -0.15384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 392
+      width: 64
+      height: 39
+    spriteID: 555c1fe92bbb2204199e2474e6bda504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 392}
+  - name: 6-Enemy-Whale_Frame_63
+    originalName: 
+    pivot: {x: 0.484375, y: -0.12499999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 52
+      width: 64
+      height: 40
+    spriteID: e21718ec9c16dc845be897cd4fc91f3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 52}
+  - name: 6-Enemy-Whale_Frame_64
+    originalName: 
+    pivot: {x: 0.484375, y: -0.09756098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 249
+      width: 64
+      height: 41
+    spriteID: 066d705752bc33a43b884b2fdffa251e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 249}
+  - name: 6-Enemy-Whale_Frame_65
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 470
+      width: 66
+      height: 36
+    spriteID: 925a6ebfbae43a14eb972a228e06b925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 470}
+  - name: 6-Enemy-Whale_Frame_67
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 439
+      width: 64
+      height: 39
+    spriteID: 619547e66875a5243b4e7d0921cf6fe1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 439}
+  - name: 6-Enemy-Whale_Frame_68
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 100
+      width: 64
+      height: 40
+    spriteID: 06f89a013435a674c8ea94b1f4315746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 100}
+  - name: 6-Enemy-Whale_Frame_69
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 963
+      width: 62
+      height: 40
+    spriteID: f4d7581152bc20d498f240c0901a218b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 963}
+  - name: 6-Enemy-Whale_Frame_71
+    originalName: 
+    pivot: {x: 0.49230772, y: -0.121951215}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 151
+      width: 65
+      height: 41
+    spriteID: 1fdb7e2195ecea643851e008c911373b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 151}
+  - name: 6-Enemy-Whale_Frame_73
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.09756098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 67
+      height: 41
+    spriteID: e931392d6dface040955f65698ce934b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 6-Enemy-Whale_Frame_75
+    originalName: 
+    pivot: {x: 0.49999997, y: -0.04878049}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 102
+      width: 66
+      height: 41
+    spriteID: c8b05630a60870549b86ac6317f58bf9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 102}
+  - name: 6-Enemy-Whale_Frame_76
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 514
+      width: 66
+      height: 36
+    spriteID: ca84f6673f46fb843a00f70e182fcbeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 514}
+  - name: 6-Enemy-Whale_Frame_78
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 486
+      width: 64
+      height: 39
+    spriteID: 69b43d253252ed14bac01a15ac2b6467
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 486}
+  - name: 6-Enemy-Whale_Frame_79
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 533
+      width: 64
+      height: 39
+    spriteID: 40d4f4a3d2b78b645b600d50ed749140
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 533}
+  - name: 6-Enemy-Whale_Frame_80
+    originalName: 
+    pivot: {x: 0.4761905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 367
+      y: 4
+      width: 63
+      height: 39
+    spriteID: e11fac3567568f24fada0891fbfc08ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 367, y: 4}
+  - name: 6-Enemy-Whale_Frame_81
+    originalName: 
+    pivot: {x: 0.44067797, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 247
+      width: 59
+      height: 43
+    spriteID: 4722ce70ade7b9e4e924c98cecd39490
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 247}
+  - name: 6-Enemy-Whale_Frame_82
+    originalName: 
+    pivot: {x: 0.4237288, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 398
+      width: 59
+      height: 44
+    spriteID: e3663b9b2583ca44c89bf8383a754452
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 398}
+  - name: 6-Enemy-Whale_Frame_84
+    originalName: 
+    pivot: {x: 0.45, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 502
+      width: 60
+      height: 43
+    spriteID: 3fb4da727d02d594582b7a8d631f6257
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 502}
+  - name: 6-Enemy-Whale_Frame_85
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 558
+      width: 66
+      height: 36
+    spriteID: d5adaecc215324843988c0da98722c77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 558}
+  - name: 6-Enemy-Whale_Frame_87
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 580
+      width: 64
+      height: 39
+    spriteID: 69a389dfaf2351045a24380cb2b3d5cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 580}
+  - name: 6-Enemy-Whale_Frame_88
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 148
+      width: 64
+      height: 40
+    spriteID: 6cbb556d80353114b9d498eed0964245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 148}
+  - name: 6-Enemy-Whale_Frame_89
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 50
+      width: 62
+      height: 40
+    spriteID: 446805d7aed6bc24698da3bd28219f0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 50}
+  - name: 6-Enemy-Whale_Frame_92
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 98
+      width: 62
+      height: 40
+    spriteID: 356bdc1acecac674fb03ef074721c1c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 98}
+  - name: 6-Enemy-Whale_Frame_93
+    originalName: 
+    pivot: {x: 0.48333332, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 190
+      width: 60
+      height: 40
+    spriteID: 8cedfe3ee94ea5e42b89e95a8d68319c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 190}
+  - name: 6-Enemy-Whale_Frame_95
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 146
+      width: 62
+      height: 40
+    spriteID: f6ae939a474127646bbff96f30a56b9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 146}
+  - name: 6-Enemy-Whale_Frame_96
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 194
+      width: 62
+      height: 40
+    spriteID: 79d29308066d9b64c8199839c90a8044
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 194}
+  - name: 6-Enemy-Whale_Frame_99
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 242
+      width: 62
+      height: 40
+    spriteID: 6acbcf1440c387f4ba5bddb18762624a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 242}
+  - name: 6-Enemy-Whale_Frame_101
+    originalName: 
+    pivot: {x: 0.48333332, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 238
+      width: 60
+      height: 40
+    spriteID: 13b6b227054eb394c96b9c37d4a4f064
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 238}
+  - name: 6-Enemy-Whale_Frame_102
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 602
+      width: 66
+      height: 36
+    spriteID: f9aa0687b6ba287488541f261a4cf6c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 602}
+  - name: 6-Enemy-Whale_Frame_104
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 910
+      width: 64
+      height: 37
+    spriteID: 0699520a1c24b6842a88ab15202fea0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 910}
+  - name: 6-Enemy-Whale_Frame_105
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 96
+      width: 64
+      height: 38
+    spriteID: 8c0fc3836dfcb6e4e84472962873fbf4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 96}
+  - name: 6-Enemy-Whale_Frame_1
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 196
+      width: 64
+      height: 40
+    spriteID: f3b12cdbaaaa0194695ec8fbf413fc78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 196}
+  - name: 6-Enemy-Whale_Frame_2
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 244
+      width: 64
+      height: 40
+    spriteID: e7786c71abd071540aea40dfcd8b784c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 244}
+  - name: 6-Enemy-Whale_Frame_3
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 292
+      width: 64
+      height: 40
+    spriteID: b1e4ad91e2b733840b2f4d58f0f8bf14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 292}
+  - name: 6-Enemy-Whale_Frame_4
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 340
+      width: 64
+      height: 40
+    spriteID: 6f144a8a8c8460c498395a6c3c87062d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 340}
+  - name: 6-Enemy-Whale_Frame_5
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 388
+      width: 64
+      height: 40
+    spriteID: 95f0b0401655cb5438640c269fdf0937
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 388}
+  - name: 6-Enemy-Whale_Frame_6
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 436
+      width: 64
+      height: 40
+    spriteID: dadc1cfe6cb41c247a5a43326ad97ff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 436}
+  - name: 6-Enemy-Whale_Frame_7
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 484
+      width: 64
+      height: 40
+    spriteID: 2ec2a4801881b7f4f88877567062fe07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 484}
+  - name: 6-Enemy-Whale_Frame_8
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 532
+      width: 64
+      height: 40
+    spriteID: be6e3fcb6338b4046ad3a3130c0d7654
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 532}
+  - name: 6-Enemy-Whale_Frame_9
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 580
+      width: 64
+      height: 40
+    spriteID: 14cd4cec23cd47a4f8492bf46780ca2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 580}
+  - name: 6-Enemy-Whale_Frame_10
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 628
+      width: 64
+      height: 40
+    spriteID: abbfd432f1a6e6d419362629f0d67f29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 628}
+  - name: 6-Enemy-Whale_Frame_11
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 676
+      width: 64
+      height: 40
+    spriteID: 49e24ba32a7978e42b5406a38d57d80b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 676}
+  - name: 6-Enemy-Whale_Frame_12
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 724
+      width: 64
+      height: 40
+    spriteID: eec08e15b1472cb49b2ce5b2e81bcfc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 724}
+  - name: 6-Enemy-Whale_Frame_13
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 772
+      width: 64
+      height: 40
+    spriteID: 02bdb343d3d72d248b7bfae353056867
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 772}
+  - name: 6-Enemy-Whale_Frame_14
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 820
+      width: 64
+      height: 40
+    spriteID: ab9b4ccca079f4f43b9b326ad4abaedd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 820}
+  - name: 6-Enemy-Whale_Frame_15
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 868
+      width: 64
+      height: 40
+    spriteID: 06d53487ebe3b7745961e118988ff5c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 868}
+  - name: 6-Enemy-Whale_Frame_16
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 916
+      width: 64
+      height: 40
+    spriteID: 54710ff11825e5f41916311fb4111e15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 916}
+  - name: 6-Enemy-Whale_Frame_17
+    originalName: 
+    pivot: {x: 0.484375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 79
+      y: 964
+      width: 64
+      height: 40
+    spriteID: a1c89f1b77c8a394e8be4e11d5681bcf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 79, y: 964}
+  - name: 6-Enemy-Whale_Frame_21
+    originalName: 
+    pivot: {x: 0.48333332, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 286
+      width: 60
+      height: 40
+    spriteID: 61e00ba9abdc75a4285144675bb49fba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 286}
+  - name: 6-Enemy-Whale_Frame_23
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 290
+      width: 62
+      height: 40
+    spriteID: 3dfa34ef8cb09234fb74f21e2721d90a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 290}
+  - name: 6-Enemy-Whale_Frame_34
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 338
+      width: 62
+      height: 40
+    spriteID: c31eb0405ac8fe94597b3c9ed790cde1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 338}
+  - name: 6-Enemy-Whale_Frame_35
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 386
+      width: 62
+      height: 40
+    spriteID: 4af3e8c9897493842840cb34cf2bd807
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 386}
+  - name: 6-Enemy-Whale_Frame_36
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 434
+      width: 62
+      height: 40
+    spriteID: be235c1cf91c46c489ddfa9c2d331094
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 434}
+  - name: 6-Enemy-Whale_Frame_37
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 482
+      width: 62
+      height: 40
+    spriteID: 7c75d9aa00599ee4db0467ed29658212
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 482}
+  - name: 6-Enemy-Whale_Frame_38
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 530
+      width: 62
+      height: 40
+    spriteID: d2a6ada9b6648d64e856f97bc53816d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 530}
+  - name: 6-Enemy-Whale_Frame_39
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 578
+      width: 62
+      height: 40
+    spriteID: 529d79dc90700e849ad402b7b53d43e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 578}
+  - name: 6-Enemy-Whale_Frame_40
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 626
+      width: 62
+      height: 40
+    spriteID: 2a1dece471b07b445b89171376ad8c97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 626}
+  - name: 6-Enemy-Whale_Frame_41
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 674
+      width: 62
+      height: 40
+    spriteID: 20731693c4bbcb940ab4c109e9d91cfb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 674}
+  - name: 6-Enemy-Whale_Frame_42
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 722
+      width: 62
+      height: 40
+    spriteID: dd1b36e32c685bb438a0b139d187a62a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 722}
+  - name: 6-Enemy-Whale_Frame_47
+    originalName: 
+    pivot: {x: 0.484375, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 4
+      width: 64
+      height: 40
+    spriteID: 6808d127c9ff21544b435ba6683ecedc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 4}
+  - name: 6-Enemy-Whale_Frame_50
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 646
+      width: 66
+      height: 36
+    spriteID: eabe790169513e44d9c331739218f222
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 646}
+  - name: 6-Enemy-Whale_Frame_54
+    originalName: 
+    pivot: {x: 0.484375, y: -0.12499999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 151
+      y: 52
+      width: 64
+      height: 40
+    spriteID: 9899f16d38cec1c4b843ca99f7cb3917
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 151, y: 52}
+  - name: 6-Enemy-Whale_Frame_57
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 690
+      width: 66
+      height: 36
+    spriteID: 14739fa5a2adce948883344010ee54c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 690}
+  - name: 6-Enemy-Whale_Frame_60
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.07142857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 348
+      width: 62
+      height: 42
+    spriteID: 6c6971893377320479b7d9561f7fea27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 348}
+  - name: 6-Enemy-Whale_Frame_66
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 734
+      width: 66
+      height: 36
+    spriteID: 2529a37e365907942af84b4ae392a2b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 734}
+  - name: 6-Enemy-Whale_Frame_70
+    originalName: 
+    pivot: {x: 0.48387098, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 770
+      width: 62
+      height: 40
+    spriteID: c192f2db1466bea4fa455ac696653aba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 770}
+  - name: 6-Enemy-Whale_Frame_72
+    originalName: 
+    pivot: {x: 0.49230772, y: -0.121951215}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 200
+      width: 65
+      height: 41
+    spriteID: 97584bd7ee208224f93d4d94e62573a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 200}
+  - name: 6-Enemy-Whale_Frame_74
+    originalName: 
+    pivot: {x: 0.5074627, y: -0.09756098}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 53
+      width: 67
+      height: 41
+    spriteID: 193790b5e939f8c468e408082a64a35e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 53}
+  - name: 6-Enemy-Whale_Frame_77
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 778
+      width: 66
+      height: 36
+    spriteID: c7cd797865f7d62458ce8312cd2d238e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 778}
+  - name: 6-Enemy-Whale_Frame_83
+    originalName: 
+    pivot: {x: 0.4237288, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 450
+      width: 59
+      height: 44
+    spriteID: 9efbec67b724c974c9fe91ffb683da54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 450}
+  - name: 6-Enemy-Whale_Frame_86
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 822
+      width: 66
+      height: 36
+    spriteID: 8c13470cb34815e499f74cc4519b2460
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 822}
+  - name: 6-Enemy-Whale_Frame_90
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 818
+      width: 62
+      height: 40
+    spriteID: 0c47665f08a969e429765e37dba46b2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 818}
+  - name: 6-Enemy-Whale_Frame_91
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 866
+      width: 62
+      height: 40
+    spriteID: 6e4af0a1b3197e84898438f27eab2045
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 866}
+  - name: 6-Enemy-Whale_Frame_94
+    originalName: 
+    pivot: {x: 0.48333332, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 334
+      width: 60
+      height: 40
+    spriteID: 1f5a8b6b7fc817c4aae5b22203a9974f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 334}
+  - name: 6-Enemy-Whale_Frame_97
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 914
+      width: 62
+      height: 40
+    spriteID: a908e6e12c11d644481685386e1b396a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 914}
+  - name: 6-Enemy-Whale_Frame_98
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 962
+      width: 62
+      height: 40
+    spriteID: 9feb31eca00803e42b07257e16fa4313
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 962}
+  - name: 6-Enemy-Whale_Frame_100
+    originalName: 
+    pivot: {x: 0.48387098, y: -0.074999996}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 297
+      y: 4
+      width: 62
+      height: 40
+    spriteID: 6532cfe9fe3d00347883b7536a167ee4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 297, y: 4}
+  - name: 6-Enemy-Whale_Frame_103
+    originalName: 
+    pivot: {x: 0.48484847, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 866
+      width: 66
+      height: 36
+    spriteID: e7627706671dfaf4a8d703ce68fcd261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 866}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -257621337
+    name: 6-Enemy-Whale
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 6-Enemy-Whale_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: bb635db6135ab3047b2ced076e47aaa8
+    - name: 6-Enemy-Whale_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 624f6f8c4c2e4244e8af49bda3679998
+    - name: 6-Enemy-Whale_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 0fc14acdcc824b44ead1f01f5678cd7f
+    - name: 6-Enemy-Whale_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 0
+        width: 60
+        height: 40
+      spriteId: 85d10294f0b80c64db59ebeb54d5e948
+    - name: 6-Enemy-Whale_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: ec02a1ebd899cdb4e9de95433a3f4f6a
+    - name: 6-Enemy-Whale_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 3bf4a86c67186954d866ce26ce65d692
+    - name: 6-Enemy-Whale_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 41
+      spriteId: 32e2906e88bb28a4aa677eb28416b1ab
+    - name: 6-Enemy-Whale_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 41
+      spriteId: 0623432bcaf464e4d81e81d70fad86c2
+    - name: 6-Enemy-Whale_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 41
+      spriteId: 38489208b572d3a41807858b82f8d25f
+    - name: 6-Enemy-Whale_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 635a8c192709a0c44b09031a25a57746
+    - name: 6-Enemy-Whale_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 34d53b680e10e6e4a99a496878a710b2
+    - name: 6-Enemy-Whale_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 4ea6bb393eb6a2640807537a74926fdb
+    - name: 6-Enemy-Whale_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 918167734892c3f48afb11019005692c
+    - name: 6-Enemy-Whale_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 3a516d858652b324e8bc508f61e95fc8
+    - name: 6-Enemy-Whale_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: b0eb6ae722b7c0646b5e50c098aa8475
+    - name: 6-Enemy-Whale_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 1a181b36d2fec1d4aab83de8c712a593
+    - name: 6-Enemy-Whale_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 1
+        width: 64
+        height: 38
+      spriteId: 53a85245024e66547911f7e09720cfcd
+    - name: 6-Enemy-Whale_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 64
+        height: 40
+      spriteId: e690d9d729a21fc439589efc5c0dcc51
+    - name: 6-Enemy-Whale_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 3
+        width: 64
+        height: 40
+      spriteId: cedb92db7785655498758d2fe88b27a9
+    - name: 6-Enemy-Whale_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 64
+        height: 40
+      spriteId: d1305fde1e7856a4cb3d381b4d0e9eb8
+    - name: 6-Enemy-Whale_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: b937f54a740852448977071dadd96ab0
+    - name: 6-Enemy-Whale_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 64
+        height: 38
+      spriteId: e605ce50f633b9649b34ffff99d0b017
+    - name: 6-Enemy-Whale_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 3
+        width: 64
+        height: 40
+      spriteId: f65c9d5ed3f240749956066efa5e1a04
+    - name: 6-Enemy-Whale_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 5
+        width: 64
+        height: 40
+      spriteId: 6eda44629582b9a42bfdff991c54dc36
+    - name: 6-Enemy-Whale_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 3
+        width: 64
+        height: 40
+      spriteId: 721d4dcd362b6a347a6203b6a9a89758
+    - name: 6-Enemy-Whale_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: 20e443f88d7350f4ca334becc5e1a0ed
+    - name: 6-Enemy-Whale_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 38
+      spriteId: 71cc3f4438723be49891f533a688dc11
+    - name: 6-Enemy-Whale_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 42
+      spriteId: fc82f044a5210274796802164ebe140c
+    - name: 6-Enemy-Whale_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 5
+        width: 64
+        height: 40
+      spriteId: 2bb5341d83cc9944ea581ba7adf065a1
+    - name: 6-Enemy-Whale_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 6
+        width: 64
+        height: 39
+      spriteId: 555c1fe92bbb2204199e2474e6bda504
+    - name: 6-Enemy-Whale_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 5
+        width: 64
+        height: 40
+      spriteId: e21718ec9c16dc845be897cd4fc91f3c
+    - name: 6-Enemy-Whale_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 4
+        width: 64
+        height: 41
+      spriteId: 066d705752bc33a43b884b2fdffa251e
+    - name: 6-Enemy-Whale_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: 925a6ebfbae43a14eb972a228e06b925
+    - name: 6-Enemy-Whale_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 619547e66875a5243b4e7d0921cf6fe1
+    - name: 6-Enemy-Whale_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 06f89a013435a674c8ea94b1f4315746
+    - name: 6-Enemy-Whale_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: f4d7581152bc20d498f240c0901a218b
+    - name: 6-Enemy-Whale_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 5
+        width: 65
+        height: 41
+      spriteId: 1fdb7e2195ecea643851e008c911373b
+    - name: 6-Enemy-Whale_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 4
+        width: 67
+        height: 41
+      spriteId: e931392d6dface040955f65698ce934b
+    - name: 6-Enemy-Whale_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 2
+        width: 66
+        height: 41
+      spriteId: c8b05630a60870549b86ac6317f58bf9
+    - name: 6-Enemy-Whale_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: ca84f6673f46fb843a00f70e182fcbeb
+    - name: 6-Enemy-Whale_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 69b43d253252ed14bac01a15ac2b6467
+    - name: 6-Enemy-Whale_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 40d4f4a3d2b78b645b600d50ed749140
+    - name: 6-Enemy-Whale_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 63
+        height: 39
+      spriteId: e11fac3567568f24fada0891fbfc08ea
+    - name: 6-Enemy-Whale_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 8
+        y: 0
+        width: 59
+        height: 43
+      spriteId: 4722ce70ade7b9e4e924c98cecd39490
+    - name: 6-Enemy-Whale_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 59
+        height: 44
+      spriteId: e3663b9b2583ca44c89bf8383a754452
+    - name: 6-Enemy-Whale_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 7
+        y: 0
+        width: 60
+        height: 43
+      spriteId: 3fb4da727d02d594582b7a8d631f6257
+    - name: 6-Enemy-Whale_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: d5adaecc215324843988c0da98722c77
+    - name: 6-Enemy-Whale_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 39
+      spriteId: 69a389dfaf2351045a24380cb2b3d5cb
+    - name: 6-Enemy-Whale_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 6cbb556d80353114b9d498eed0964245
+    - name: 6-Enemy-Whale_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 446805d7aed6bc24698da3bd28219f0a
+    - name: 6-Enemy-Whale_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 356bdc1acecac674fb03ef074721c1c7
+    - name: 6-Enemy-Whale_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 3
+        width: 60
+        height: 40
+      spriteId: 8cedfe3ee94ea5e42b89e95a8d68319c
+    - name: 6-Enemy-Whale_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: f6ae939a474127646bbff96f30a56b9f
+    - name: 6-Enemy-Whale_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 79d29308066d9b64c8199839c90a8044
+    - name: 6-Enemy-Whale_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 6acbcf1440c387f4ba5bddb18762624a
+    - name: 6-Enemy-Whale_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 3
+        width: 60
+        height: 40
+      spriteId: 13b6b227054eb394c96b9c37d4a4f064
+    - name: 6-Enemy-Whale_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: f9aa0687b6ba287488541f261a4cf6c8
+    - name: 6-Enemy-Whale_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 37
+      spriteId: 0699520a1c24b6842a88ab15202fea0f
+    - name: 6-Enemy-Whale_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 38
+      spriteId: 8c0fc3836dfcb6e4e84472962873fbf4
+    - name: 6-Enemy-Whale_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: f3b12cdbaaaa0194695ec8fbf413fc78
+    - name: 6-Enemy-Whale_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: e7786c71abd071540aea40dfcd8b784c
+    - name: 6-Enemy-Whale_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: b1e4ad91e2b733840b2f4d58f0f8bf14
+    - name: 6-Enemy-Whale_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 6f144a8a8c8460c498395a6c3c87062d
+    - name: 6-Enemy-Whale_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 95f0b0401655cb5438640c269fdf0937
+    - name: 6-Enemy-Whale_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: dadc1cfe6cb41c247a5a43326ad97ff4
+    - name: 6-Enemy-Whale_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 2ec2a4801881b7f4f88877567062fe07
+    - name: 6-Enemy-Whale_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: be6e3fcb6338b4046ad3a3130c0d7654
+    - name: 6-Enemy-Whale_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 14cd4cec23cd47a4f8492bf46780ca2f
+    - name: 6-Enemy-Whale_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: abbfd432f1a6e6d419362629f0d67f29
+    - name: 6-Enemy-Whale_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 49e24ba32a7978e42b5406a38d57d80b
+    - name: 6-Enemy-Whale_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: eec08e15b1472cb49b2ce5b2e81bcfc8
+    - name: 6-Enemy-Whale_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 02bdb343d3d72d248b7bfae353056867
+    - name: 6-Enemy-Whale_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: ab9b4ccca079f4f43b9b326ad4abaedd
+    - name: 6-Enemy-Whale_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 06d53487ebe3b7745961e118988ff5c6
+    - name: 6-Enemy-Whale_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: 54710ff11825e5f41916311fb4111e15
+    - name: 6-Enemy-Whale_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 64
+        height: 40
+      spriteId: a1c89f1b77c8a394e8be4e11d5681bcf
+    - name: 6-Enemy-Whale_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 0
+        width: 60
+        height: 40
+      spriteId: 61e00ba9abdc75a4285144675bb49fba
+    - name: 6-Enemy-Whale_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 3dfa34ef8cb09234fb74f21e2721d90a
+    - name: 6-Enemy-Whale_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: c31eb0405ac8fe94597b3c9ed790cde1
+    - name: 6-Enemy-Whale_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 4af3e8c9897493842840cb34cf2bd807
+    - name: 6-Enemy-Whale_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: be235c1cf91c46c489ddfa9c2d331094
+    - name: 6-Enemy-Whale_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 7c75d9aa00599ee4db0467ed29658212
+    - name: 6-Enemy-Whale_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: d2a6ada9b6648d64e856f97bc53816d7
+    - name: 6-Enemy-Whale_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 529d79dc90700e849ad402b7b53d43e9
+    - name: 6-Enemy-Whale_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 2a1dece471b07b445b89171376ad8c97
+    - name: 6-Enemy-Whale_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: 20731693c4bbcb940ab4c109e9d91cfb
+    - name: 6-Enemy-Whale_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: dd1b36e32c685bb438a0b139d187a62a
+    - name: 6-Enemy-Whale_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 3
+        width: 64
+        height: 40
+      spriteId: 6808d127c9ff21544b435ba6683ecedc
+    - name: 6-Enemy-Whale_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: eabe790169513e44d9c331739218f222
+    - name: 6-Enemy-Whale_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 5
+        width: 64
+        height: 40
+      spriteId: 9899f16d38cec1c4b843ca99f7cb3917
+    - name: 6-Enemy-Whale_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: 14739fa5a2adce948883344010ee54c1
+    - name: 6-Enemy-Whale_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 42
+      spriteId: 6c6971893377320479b7d9561f7fea27
+    - name: 6-Enemy-Whale_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: 2529a37e365907942af84b4ae392a2b5
+    - name: 6-Enemy-Whale_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 0
+        width: 62
+        height: 40
+      spriteId: c192f2db1466bea4fa455ac696653aba
+    - name: 6-Enemy-Whale_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 5
+        width: 65
+        height: 41
+      spriteId: 97584bd7ee208224f93d4d94e62573a0
+    - name: 6-Enemy-Whale_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 4
+        width: 67
+        height: 41
+      spriteId: 193790b5e939f8c468e408082a64a35e
+    - name: 6-Enemy-Whale_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: c7cd797865f7d62458ce8312cd2d238e
+    - name: 6-Enemy-Whale_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 59
+        height: 44
+      spriteId: 9efbec67b724c974c9fe91ffb683da54
+    - name: 6-Enemy-Whale_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: 8c13470cb34815e499f74cc4519b2460
+    - name: 6-Enemy-Whale_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 0c47665f08a969e429765e37dba46b2e
+    - name: 6-Enemy-Whale_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 6e4af0a1b3197e84898438f27eab2045
+    - name: 6-Enemy-Whale_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 5
+        y: 3
+        width: 60
+        height: 40
+      spriteId: 1f5a8b6b7fc817c4aae5b22203a9974f
+    - name: 6-Enemy-Whale_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: a908e6e12c11d644481685386e1b396a
+    - name: 6-Enemy-Whale_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 9feb31eca00803e42b07257e16fa4313
+    - name: 6-Enemy-Whale_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 3
+        width: 62
+        height: 40
+      spriteId: 6532cfe9fe3d00347883b7536a167ee4
+    - name: 6-Enemy-Whale_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 66
+        height: 36
+      spriteId: e7627706671dfaf4a8d703ce68fcd261
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 68, y: 46}

@@ -1,0 +1,3039 @@
+fileFormatVersion: 2
+guid: 00132737af966ca4bbd6bbd5a0bb7414
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 1-Player-Bomb Guy_Frame_0
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 313
+      width: 49
+      height: 54
+    spriteID: 8ea3b168fd9fa704f8296dc8c3c32fdb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 313}
+  - name: 1-Player-Bomb Guy_Frame_15
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 375
+      width: 49
+      height: 54
+    spriteID: dbd9050067857a74795f3cb9d9d65646
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 375}
+  - name: 1-Player-Bomb Guy_Frame_16
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 65
+      width: 50
+      height: 55
+    spriteID: bf8a2697e11df4743ae09ac1f11dccd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 65}
+  - name: 1-Player-Bomb Guy_Frame_18
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 436
+      width: 50
+      height: 56
+    spriteID: 29b6cb0c19fd3b6468c506753a5204b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 436}
+  - name: 1-Player-Bomb Guy_Frame_21
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 500
+      width: 50
+      height: 56
+    spriteID: 4fd76b29e4fd8fa44bda4f793ff5058e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 500}
+  - name: 1-Player-Bomb Guy_Frame_22
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 251
+      width: 50
+      height: 54
+    spriteID: 36f1a5ceb9e9296428a411d7a9875dab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 251}
+  - name: 1-Player-Bomb Guy_Frame_23
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 377
+      width: 49
+      height: 53
+    spriteID: 04874faab2d80d643aace37bfae1b27b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 377}
+  - name: 1-Player-Bomb Guy_Frame_25
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 438
+      width: 49
+      height: 53
+    spriteID: a14a90f480be12e408783ad1175cb92e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 438}
+  - name: 1-Player-Bomb Guy_Frame_26
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.038461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 370
+      width: 48
+      height: 52
+    spriteID: 7674178c26834bb47bcdcddf3103e64b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 370}
+  - name: 1-Player-Bomb Guy_Frame_27
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.09615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 430
+      width: 48
+      height: 52
+    spriteID: 6f702613f4df0ae4db176e8643a6b6a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 430}
+  - name: 1-Player-Bomb Guy_Frame_30
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 724
+      width: 48
+      height: 53
+    spriteID: 56782b17fe1c80c4d84659fbc32887a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 724}
+  - name: 1-Player-Bomb Guy_Frame_31
+    originalName: 
+    pivot: {x: 0.54901963, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 4
+      width: 51
+      height: 51
+    spriteID: 16a63ed33763c26499b5246630e2ac2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_33
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.058823533}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 968
+      width: 49
+      height: 51
+    spriteID: 2a5590cf5e5836e4da2c1cde807d6314
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 968}
+  - name: 1-Player-Bomb Guy_Frame_34
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 4
+      width: 49
+      height: 51
+    spriteID: 938e40a2a4abaf44fa736bc395cfac9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_37
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.057692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 544
+      width: 49
+      height: 52
+    spriteID: 4cf4bf0c134b3974e8c3e057789c4a72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 544}
+  - name: 1-Player-Bomb Guy_Frame_38
+    originalName: 
+    pivot: {x: 0.54901963, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 63
+      width: 51
+      height: 51
+    spriteID: 9781bd0b3db47d849a05df20de7061e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 63}
+  - name: 1-Player-Bomb Guy_Frame_40
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 181
+      width: 49
+      height: 50
+    spriteID: 1af1c1352b2441d42865e22a1f584551
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 181}
+  - name: 1-Player-Bomb Guy_Frame_41
+    originalName: 
+    pivot: {x: 0.5744681, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 302
+      width: 47
+      height: 55
+    spriteID: f7d32bda4f0a96349bda993019fe46bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 302}
+  - name: 1-Player-Bomb Guy_Frame_43
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.07692307}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 604
+      width: 49
+      height: 52
+    spriteID: fd1ddfba2c13ce0469f2174d572404da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 604}
+  - name: 1-Player-Bomb Guy_Frame_44
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.12}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 239
+      width: 49
+      height: 50
+    spriteID: 94723d561e278d2479196befc9086c35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 239}
+  - name: 1-Player-Bomb Guy_Frame_45
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.0754717}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 499
+      width: 49
+      height: 53
+    spriteID: 6105c441ecee1604e8b51f16028fb02c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 499}
+  - name: 1-Player-Bomb Guy_Frame_46
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 370
+      width: 49
+      height: 58
+    spriteID: f880b7e53b88f97489687a774b10352e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 370}
+  - name: 1-Player-Bomb Guy_Frame_47
+    originalName: 
+    pivot: {x: 0.54901963, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 428
+      width: 51
+      height: 50
+    spriteID: a149f47852e9cad4584494f448a6350e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 428}
+  - name: 1-Player-Bomb Guy_Frame_49
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 664
+      width: 49
+      height: 52
+    spriteID: 93dfbff9e7e8106419bb954d30117d31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 664}
+  - name: 1-Player-Bomb Guy_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 692
+      width: 52
+      height: 53
+    spriteID: af78575e8c9f7a242a92c45ccd3cd3c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 692}
+  - name: 1-Player-Bomb Guy_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 753
+      width: 52
+      height: 53
+    spriteID: a445e9e133befa34a9e327803bebd2cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 753}
+  - name: 1-Player-Bomb Guy_Frame_55
+    originalName: 
+    pivot: {x: 0.4716981, y: -0.038461536}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 814
+      width: 53
+      height: 52
+    spriteID: 72afa6269a951c041b913a022a3c1e7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 814}
+  - name: 1-Player-Bomb Guy_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: -0.057692308}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 191
+      width: 52
+      height: 52
+    spriteID: fac2943843e302e48a5becbeff6a8895
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 191}
+  - name: 1-Player-Bomb Guy_Frame_57
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.018181818}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 314
+      width: 48
+      height: 55
+    spriteID: 8a4e2d021b9ec2a4ca16f4bf00669c09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 314}
+  - name: 1-Player-Bomb Guy_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 54
+      height: 53
+    spriteID: 44eda190a1aa3774fa46ea2d1c3acb04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_61
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 65
+      width: 54
+      height: 53
+    spriteID: d37e006745aae504da0e7108fa64aa37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 65}
+  - name: 1-Player-Bomb Guy_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: -0.018867925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 126
+      width: 54
+      height: 53
+    spriteID: 59753a82a84325749881c085c6d2e9f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 126}
+  - name: 1-Player-Bomb Guy_Frame_64
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 58
+      width: 58
+      height: 40
+    spriteID: ef23ef358f2daca4f94b64504fdd22bd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 58}
+  - name: 1-Player-Bomb Guy_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 154
+      width: 54
+      height: 42
+    spriteID: 2a31239ba8f19974fa340c25862a5fed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 154}
+  - name: 1-Player-Bomb Guy_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 4
+      width: 54
+      height: 46
+    spriteID: 0d53a88e1cfbe3a4aa10d6dd968b637e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_68
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 438
+      width: 55
+      height: 53
+    spriteID: f0918a25e1b48524fbd38af9a638d0e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 438}
+  - name: 1-Player-Bomb Guy_Frame_70
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 499
+      width: 55
+      height: 53
+    spriteID: 063a9396857b78645a4cf1f1cda43690
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 499}
+  - name: 1-Player-Bomb Guy_Frame_71
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.037037034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 55
+      height: 54
+    spriteID: e18c74cf21843204381987b89df3d486
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_72
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 55
+      height: 54
+    spriteID: 02d2544120568e846a22f35f411be115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: 1-Player-Bomb Guy_Frame_73
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 560
+      width: 55
+      height: 53
+    spriteID: e8d77142dd531f24781ae1917e2f4076
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 560}
+  - name: 1-Player-Bomb Guy_Frame_75
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.018518517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 128
+      width: 55
+      height: 54
+    spriteID: f36648a10761268409337a2b7a5a79fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 128}
+  - name: 1-Player-Bomb Guy_Frame_76
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.037037034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 190
+      width: 55
+      height: 54
+    spriteID: 935c46062786661459e30229e226c360
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 190}
+  - name: 1-Player-Bomb Guy_Frame_77
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 252
+      width: 55
+      height: 54
+    spriteID: fe3848078b298e14f8cc905b3d655bf2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 252}
+  - name: 1-Player-Bomb Guy_Frame_78
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 621
+      width: 55
+      height: 53
+    spriteID: 42c208ba36474a1468bc746cf0838c0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 621}
+  - name: 1-Player-Bomb Guy_Frame_79
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 682
+      width: 55
+      height: 53
+    spriteID: c8bbef6520ef99d4a9e337d4783e4749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 682}
+  - name: 1-Player-Bomb Guy_Frame_80
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 743
+      width: 55
+      height: 53
+    spriteID: 86b74e2c813aacf488defb29388d3eed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 743}
+  - name: 1-Player-Bomb Guy_Frame_81
+    originalName: 
+    pivot: {x: 0.49090907, y: -0.037037034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 314
+      width: 55
+      height: 54
+    spriteID: 0ebeae04c71f26a4da6cb95cc747690a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 314}
+  - name: 1-Player-Bomb Guy_Frame_82
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 376
+      width: 55
+      height: 54
+    spriteID: ca68cf0b3416f764fb1287a1825acfc3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 376}
+  - name: 1-Player-Bomb Guy_Frame_83
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 804
+      width: 55
+      height: 53
+    spriteID: 39d9c598ac936af45a8eb1acfd9d3620
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 804}
+  - name: 1-Player-Bomb Guy_Frame_84
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 785
+      width: 48
+      height: 53
+    spriteID: dc1fc20cec714124caf46eaf8f698b0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 785}
+  - name: 1-Player-Bomb Guy_Frame_85
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 846
+      width: 48
+      height: 53
+    spriteID: ad16e00bcec67264cae0c8ca83560132
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 846}
+  - name: 1-Player-Bomb Guy_Frame_86
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 907
+      width: 48
+      height: 53
+    spriteID: 9611e8a731265e745b9e8840b12fff10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 907}
+  - name: 1-Player-Bomb Guy_Frame_87
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.037037034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 621
+      width: 48
+      height: 54
+    spriteID: 9f282e5f27d34d84493282e030541e59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 621}
+  - name: 1-Player-Bomb Guy_Frame_88
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 683
+      width: 48
+      height: 54
+    spriteID: 07928e2ca02650e449c89b1ba19726ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 683}
+  - name: 1-Player-Bomb Guy_Frame_89
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 4
+      width: 48
+      height: 53
+    spriteID: 51f70d08cc3c33846b74f0ebcdd73234
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_90
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 65
+      width: 48
+      height: 53
+    spriteID: 2704964aca4ca3048b23038d339240f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 65}
+  - name: 1-Player-Bomb Guy_Frame_91
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.018518517}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 745
+      width: 48
+      height: 54
+    spriteID: 528d6a6d45a366841b836f5e71d64454
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 745}
+  - name: 1-Player-Bomb Guy_Frame_92
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.037037034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 807
+      width: 48
+      height: 54
+    spriteID: 262deaa899aaefa4fb33566dad39768d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 807}
+  - name: 1-Player-Bomb Guy_Frame_93
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 869
+      width: 48
+      height: 54
+    spriteID: bb843a045236cc84a99b292db6b3094d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 869}
+  - name: 1-Player-Bomb Guy_Frame_94
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 126
+      width: 48
+      height: 53
+    spriteID: 06db4d0f2ff6639489816e6379ec9edb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 126}
+  - name: 1-Player-Bomb Guy_Frame_96
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 187
+      width: 48
+      height: 53
+    spriteID: e94fbaa0d01375e48a25ba321f575306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 187}
+  - name: 1-Player-Bomb Guy_Frame_97
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.037037034}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 931
+      width: 48
+      height: 54
+    spriteID: 3174dd2997c538044b79b8bb7d8a926b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 931}
+  - name: 1-Player-Bomb Guy_Frame_98
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 240
+      width: 48
+      height: 54
+    spriteID: 33a7232484dfafb4884255c3e87064fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 240}
+  - name: 1-Player-Bomb Guy_Frame_99
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 248
+      width: 48
+      height: 53
+    spriteID: 6c565410300f9a54eb6bf92e7d8356e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 248}
+  - name: 1-Player-Bomb Guy_Frame_1
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 437
+      width: 49
+      height: 54
+    spriteID: b3f006db56ed1ac439fb7ba033c892d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 437}
+  - name: 1-Player-Bomb Guy_Frame_2
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 499
+      width: 49
+      height: 54
+    spriteID: 7081c9977c8eef64795ecb95653972f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 499}
+  - name: 1-Player-Bomb Guy_Frame_3
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 561
+      width: 49
+      height: 54
+    spriteID: ee4299aa0d7b8b6488fd066a532e5e90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 561}
+  - name: 1-Player-Bomb Guy_Frame_4
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 623
+      width: 49
+      height: 54
+    spriteID: 39af17ad8e930a84ab839dcc28e2e165
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 623}
+  - name: 1-Player-Bomb Guy_Frame_5
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 685
+      width: 49
+      height: 54
+    spriteID: 0bce7b444be4ebd4692d481e70e1cd98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 685}
+  - name: 1-Player-Bomb Guy_Frame_6
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 747
+      width: 49
+      height: 54
+    spriteID: 367192c75e072cb478feda1a3ba7bdb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 747}
+  - name: 1-Player-Bomb Guy_Frame_7
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 809
+      width: 49
+      height: 54
+    spriteID: f9f1d6614750c224c94c692348ce47da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 809}
+  - name: 1-Player-Bomb Guy_Frame_8
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 871
+      width: 49
+      height: 54
+    spriteID: 6b6ef84fd0209384786d431e1f9edc8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 871}
+  - name: 1-Player-Bomb Guy_Frame_9
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 933
+      width: 49
+      height: 54
+    spriteID: adc68ae6d0ec006429190d0d87a3eed8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 933}
+  - name: 1-Player-Bomb Guy_Frame_10
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 4
+      width: 49
+      height: 54
+    spriteID: 65194f3132e7113499be030ca88b41a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_11
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 66
+      width: 49
+      height: 54
+    spriteID: be71826404c81ec45bee02e70c7e0151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 66}
+  - name: 1-Player-Bomb Guy_Frame_12
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 128
+      width: 49
+      height: 54
+    spriteID: 01821623bb64f7841887b13fe2f14126
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 128}
+  - name: 1-Player-Bomb Guy_Frame_13
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 190
+      width: 49
+      height: 54
+    spriteID: de973d549246f7b4ab2cbabc2fd07b3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 190}
+  - name: 1-Player-Bomb Guy_Frame_14
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 252
+      width: 49
+      height: 54
+    spriteID: 8a81bdac8951d53498c052dff5d1b485
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 252}
+  - name: 1-Player-Bomb Guy_Frame_17
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 128
+      width: 50
+      height: 55
+    spriteID: b245d230a3a289d44a5a13385b94ad3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 128}
+  - name: 1-Player-Bomb Guy_Frame_19
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 564
+      width: 50
+      height: 56
+    spriteID: bb3ecab4945a9f14bae149c951d3f02d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 564}
+  - name: 1-Player-Bomb Guy_Frame_20
+    originalName: 
+    pivot: {x: 0.54, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 628
+      width: 50
+      height: 56
+    spriteID: b7921623730a6b14ea4e9ff9d63ded30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 628}
+  - name: 1-Player-Bomb Guy_Frame_24
+    originalName: 
+    pivot: {x: 0.55102044, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 189
+      y: 560
+      width: 49
+      height: 53
+    spriteID: edab60d04fe82254b8c734c3e0525692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 189, y: 560}
+  - name: 1-Player-Bomb Guy_Frame_28
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.09615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 490
+      width: 48
+      height: 52
+    spriteID: 502388a7578eec24195f3d2a0d3eb126
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 490}
+  - name: 1-Player-Bomb Guy_Frame_29
+    originalName: 
+    pivot: {x: 0.56250006, y: -0.09615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 550
+      width: 48
+      height: 52
+    spriteID: c2eedbbc88c02b34f8c4da141dca79a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 550}
+  - name: 1-Player-Bomb Guy_Frame_32
+    originalName: 
+    pivot: {x: 0.54901963, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 122
+      width: 51
+      height: 51
+    spriteID: 5361313f56ca0e349ab981231ccedfa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 122}
+  - name: 1-Player-Bomb Guy_Frame_35
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 63
+      width: 49
+      height: 51
+    spriteID: 1db22485a2a71e44eb2723762664f093
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 63}
+  - name: 1-Player-Bomb Guy_Frame_36
+    originalName: 
+    pivot: {x: 0.55102044, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 361
+      y: 122
+      width: 49
+      height: 51
+    spriteID: 86b5fdd26326f7b408a1e11ef3133dfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 122}
+  - name: 1-Player-Bomb Guy_Frame_39
+    originalName: 
+    pivot: {x: 0.54901963, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 181
+      width: 51
+      height: 51
+    spriteID: ec5ec1722dde7f044831c939a6c6fa8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 181}
+  - name: 1-Player-Bomb Guy_Frame_42
+    originalName: 
+    pivot: {x: 0.5744681, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 365
+      width: 47
+      height: 55
+    spriteID: 0983a73bf6eddb34d854145753150ced
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 365}
+  - name: 1-Player-Bomb Guy_Frame_48
+    originalName: 
+    pivot: {x: 0.54901963, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 486
+      width: 51
+      height: 50
+    spriteID: e5793c4214046cb429ebaf72ad24a1d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 246, y: 486}
+  - name: 1-Player-Bomb Guy_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 874
+      width: 52
+      height: 53
+    spriteID: 4fa93cf5c7ba44b42b91097a33ef76de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 874}
+  - name: 1-Player-Bomb Guy_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 935
+      width: 52
+      height: 53
+    spriteID: 75a638cd7c0f570448d3a948e498071f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 935}
+  - name: 1-Player-Bomb Guy_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: -0.03773585}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 4
+      width: 52
+      height: 53
+    spriteID: f83bae29bcab7744a9d225224c413d44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 4}
+  - name: 1-Player-Bomb Guy_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 187
+      width: 54
+      height: 53
+    spriteID: 83f5c1974794ac84c865743b117f37fc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 187}
+  - name: 1-Player-Bomb Guy_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 248
+      width: 54
+      height: 53
+    spriteID: 59c1a570867764f4180af71c4c7aed27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 248}
+  - name: 1-Player-Bomb Guy_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 309
+      width: 54
+      height: 53
+    spriteID: 5c2c7a66db4e4ab40b87f8abda2d5f46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 309}
+  - name: 1-Player-Bomb Guy_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 106
+      width: 58
+      height: 40
+    spriteID: 340df251d9097f14589f95f2e3a0a09b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 106}
+  - name: 1-Player-Bomb Guy_Frame_69
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 865
+      width: 55
+      height: 53
+    spriteID: b4c52ab8f15d615429c510292f63d1f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 865}
+  - name: 1-Player-Bomb Guy_Frame_74
+    originalName: 
+    pivot: {x: 0.49090907, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 926
+      width: 55
+      height: 53
+    spriteID: 7e10bfc4e1b036c4383a00d13a5d0c4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 926}
+  - name: 1-Player-Bomb Guy_Frame_95
+    originalName: 
+    pivot: {x: 0.56250006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 309
+      width: 48
+      height: 53
+    spriteID: edd46f21fa51158479eb32448b3aa7fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 305, y: 309}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1524568635
+    name: 1-Player-Bomb Guy
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 1-Player-Bomb Guy_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 8ea3b168fd9fa704f8296dc8c3c32fdb
+    - name: 1-Player-Bomb Guy_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: dbd9050067857a74795f3cb9d9d65646
+    - name: 1-Player-Bomb Guy_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 55
+      spriteId: bf8a2697e11df4743ae09ac1f11dccd5
+    - name: 1-Player-Bomb Guy_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 56
+      spriteId: 29b6cb0c19fd3b6468c506753a5204b2
+    - name: 1-Player-Bomb Guy_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 56
+      spriteId: 4fd76b29e4fd8fa44bda4f793ff5058e
+    - name: 1-Player-Bomb Guy_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 54
+      spriteId: 36f1a5ceb9e9296428a411d7a9875dab
+    - name: 1-Player-Bomb Guy_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 53
+      spriteId: 04874faab2d80d643aace37bfae1b27b
+    - name: 1-Player-Bomb Guy_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 53
+      spriteId: a14a90f480be12e408783ad1175cb92e
+    - name: 1-Player-Bomb Guy_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 52
+      spriteId: 7674178c26834bb47bcdcddf3103e64b
+    - name: 1-Player-Bomb Guy_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 5
+        width: 48
+        height: 52
+      spriteId: 6f702613f4df0ae4db176e8643a6b6a2
+    - name: 1-Player-Bomb Guy_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 53
+      spriteId: 56782b17fe1c80c4d84659fbc32887a5
+    - name: 1-Player-Bomb Guy_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 51
+        height: 51
+      spriteId: 16a63ed33763c26499b5246630e2ac2e
+    - name: 1-Player-Bomb Guy_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 3
+        width: 49
+        height: 51
+      spriteId: 2a5590cf5e5836e4da2c1cde807d6314
+    - name: 1-Player-Bomb Guy_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 6
+        width: 49
+        height: 51
+      spriteId: 938e40a2a4abaf44fa736bc395cfac9c
+    - name: 1-Player-Bomb Guy_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 3
+        width: 49
+        height: 52
+      spriteId: 4cf4bf0c134b3974e8c3e057789c4a72
+    - name: 1-Player-Bomb Guy_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 51
+        height: 51
+      spriteId: 9781bd0b3db47d849a05df20de7061e5
+    - name: 1-Player-Bomb Guy_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 50
+      spriteId: 1af1c1352b2441d42865e22a1f584551
+    - name: 1-Player-Bomb Guy_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 47
+        height: 55
+      spriteId: f7d32bda4f0a96349bda993019fe46bc
+    - name: 1-Player-Bomb Guy_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 4
+        width: 49
+        height: 52
+      spriteId: fd1ddfba2c13ce0469f2174d572404da
+    - name: 1-Player-Bomb Guy_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 6
+        width: 49
+        height: 50
+      spriteId: 94723d561e278d2479196befc9086c35
+    - name: 1-Player-Bomb Guy_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 4
+        width: 49
+        height: 53
+      spriteId: 6105c441ecee1604e8b51f16028fb02c
+    - name: 1-Player-Bomb Guy_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 58
+      spriteId: f880b7e53b88f97489687a774b10352e
+    - name: 1-Player-Bomb Guy_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 51
+        height: 50
+      spriteId: a149f47852e9cad4584494f448a6350e
+    - name: 1-Player-Bomb Guy_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 52
+      spriteId: 93dfbff9e7e8106419bb954d30117d31
+    - name: 1-Player-Bomb Guy_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 52
+        height: 53
+      spriteId: af78575e8c9f7a242a92c45ccd3cd3c3
+    - name: 1-Player-Bomb Guy_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 52
+        height: 53
+      spriteId: a445e9e133befa34a9e327803bebd2cb
+    - name: 1-Player-Bomb Guy_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: 4
+        y: 2
+        width: 53
+        height: 52
+      spriteId: 72afa6269a951c041b913a022a3c1e7b
+    - name: 1-Player-Bomb Guy_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 3
+        width: 52
+        height: 52
+      spriteId: fac2943843e302e48a5becbeff6a8895
+    - name: 1-Player-Bomb Guy_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 1
+        width: 48
+        height: 55
+      spriteId: 8a4e2d021b9ec2a4ca16f4bf00669c09
+    - name: 1-Player-Bomb Guy_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 53
+      spriteId: 44eda190a1aa3774fa46ea2d1c3acb04
+    - name: 1-Player-Bomb Guy_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 53
+      spriteId: d37e006745aae504da0e7108fa64aa37
+    - name: 1-Player-Bomb Guy_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 1
+        width: 54
+        height: 53
+      spriteId: 59753a82a84325749881c085c6d2e9f0
+    - name: 1-Player-Bomb Guy_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 58
+        height: 40
+      spriteId: ef23ef358f2daca4f94b64504fdd22bd
+    - name: 1-Player-Bomb Guy_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 42
+      spriteId: 2a31239ba8f19974fa340c25862a5fed
+    - name: 1-Player-Bomb Guy_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 46
+      spriteId: 0d53a88e1cfbe3a4aa10d6dd968b637e
+    - name: 1-Player-Bomb Guy_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: f0918a25e1b48524fbd38af9a638d0e1
+    - name: 1-Player-Bomb Guy_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 55
+        height: 53
+      spriteId: 063a9396857b78645a4cf1f1cda43690
+    - name: 1-Player-Bomb Guy_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 55
+        height: 54
+      spriteId: e18c74cf21843204381987b89df3d486
+    - name: 1-Player-Bomb Guy_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 54
+      spriteId: 02d2544120568e846a22f35f411be115
+    - name: 1-Player-Bomb Guy_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: e8d77142dd531f24781ae1917e2f4076
+    - name: 1-Player-Bomb Guy_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 1
+        width: 55
+        height: 54
+      spriteId: f36648a10761268409337a2b7a5a79fc
+    - name: 1-Player-Bomb Guy_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 55
+        height: 54
+      spriteId: 935c46062786661459e30229e226c360
+    - name: 1-Player-Bomb Guy_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 54
+      spriteId: fe3848078b298e14f8cc905b3d655bf2
+    - name: 1-Player-Bomb Guy_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: 42c208ba36474a1468bc746cf0838c0f
+    - name: 1-Player-Bomb Guy_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: c8bbef6520ef99d4a9e337d4783e4749
+    - name: 1-Player-Bomb Guy_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 55
+        height: 53
+      spriteId: 86b74e2c813aacf488defb29388d3eed
+    - name: 1-Player-Bomb Guy_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 55
+        height: 54
+      spriteId: 0ebeae04c71f26a4da6cb95cc747690a
+    - name: 1-Player-Bomb Guy_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 54
+      spriteId: ca68cf0b3416f764fb1287a1825acfc3
+    - name: 1-Player-Bomb Guy_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: 39d9c598ac936af45a8eb1acfd9d3620
+    - name: 1-Player-Bomb Guy_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: dc1fc20cec714124caf46eaf8f698b0e
+    - name: 1-Player-Bomb Guy_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: ad16e00bcec67264cae0c8ca83560132
+    - name: 1-Player-Bomb Guy_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 53
+      spriteId: 9611e8a731265e745b9e8840b12fff10
+    - name: 1-Player-Bomb Guy_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 54
+      spriteId: 9f282e5f27d34d84493282e030541e59
+    - name: 1-Player-Bomb Guy_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 54
+      spriteId: 07928e2ca02650e449c89b1ba19726ae
+    - name: 1-Player-Bomb Guy_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: 51f70d08cc3c33846b74f0ebcdd73234
+    - name: 1-Player-Bomb Guy_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: 2704964aca4ca3048b23038d339240f1
+    - name: 1-Player-Bomb Guy_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 1
+        width: 48
+        height: 54
+      spriteId: 528d6a6d45a366841b836f5e71d64454
+    - name: 1-Player-Bomb Guy_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 54
+      spriteId: 262deaa899aaefa4fb33566dad39768d
+    - name: 1-Player-Bomb Guy_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 54
+      spriteId: bb843a045236cc84a99b292db6b3094d
+    - name: 1-Player-Bomb Guy_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: 06db4d0f2ff6639489816e6379ec9edb
+    - name: 1-Player-Bomb Guy_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 53
+      spriteId: e94fbaa0d01375e48a25ba321f575306
+    - name: 1-Player-Bomb Guy_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 2
+        width: 48
+        height: 54
+      spriteId: 3174dd2997c538044b79b8bb7d8a926b
+    - name: 1-Player-Bomb Guy_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 54
+      spriteId: 33a7232484dfafb4884255c3e87064fb
+    - name: 1-Player-Bomb Guy_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: 6c565410300f9a54eb6bf92e7d8356e0
+    - name: 1-Player-Bomb Guy_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: b3f006db56ed1ac439fb7ba033c892d0
+    - name: 1-Player-Bomb Guy_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 7081c9977c8eef64795ecb95653972f3
+    - name: 1-Player-Bomb Guy_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: ee4299aa0d7b8b6488fd066a532e5e90
+    - name: 1-Player-Bomb Guy_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 39af17ad8e930a84ab839dcc28e2e165
+    - name: 1-Player-Bomb Guy_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 0bce7b444be4ebd4692d481e70e1cd98
+    - name: 1-Player-Bomb Guy_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 367192c75e072cb478feda1a3ba7bdb2
+    - name: 1-Player-Bomb Guy_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: f9f1d6614750c224c94c692348ce47da
+    - name: 1-Player-Bomb Guy_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 6b6ef84fd0209384786d431e1f9edc8f
+    - name: 1-Player-Bomb Guy_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: adc68ae6d0ec006429190d0d87a3eed8
+    - name: 1-Player-Bomb Guy_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 65194f3132e7113499be030ca88b41a4
+    - name: 1-Player-Bomb Guy_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: be71826404c81ec45bee02e70c7e0151
+    - name: 1-Player-Bomb Guy_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 01821623bb64f7841887b13fe2f14126
+    - name: 1-Player-Bomb Guy_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: de973d549246f7b4ab2cbabc2fd07b3b
+    - name: 1-Player-Bomb Guy_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 54
+      spriteId: 8a81bdac8951d53498c052dff5d1b485
+    - name: 1-Player-Bomb Guy_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 55
+      spriteId: b245d230a3a289d44a5a13385b94ad3f
+    - name: 1-Player-Bomb Guy_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 56
+      spriteId: bb3ecab4945a9f14bae149c951d3f02d
+    - name: 1-Player-Bomb Guy_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 50
+        height: 56
+      spriteId: b7921623730a6b14ea4e9ff9d63ded30
+    - name: 1-Player-Bomb Guy_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 49
+        height: 53
+      spriteId: edab60d04fe82254b8c734c3e0525692
+    - name: 1-Player-Bomb Guy_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 5
+        width: 48
+        height: 52
+      spriteId: 502388a7578eec24195f3d2a0d3eb126
+    - name: 1-Player-Bomb Guy_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 5
+        width: 48
+        height: 52
+      spriteId: c2eedbbc88c02b34f8c4da141dca79a3
+    - name: 1-Player-Bomb Guy_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 51
+        height: 51
+      spriteId: 5361313f56ca0e349ab981231ccedfa2
+    - name: 1-Player-Bomb Guy_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 6
+        width: 49
+        height: 51
+      spriteId: 1db22485a2a71e44eb2723762664f093
+    - name: 1-Player-Bomb Guy_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 6
+        width: 49
+        height: 51
+      spriteId: 86b5fdd26326f7b408a1e11ef3133dfa
+    - name: 1-Player-Bomb Guy_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 51
+        height: 51
+      spriteId: ec5ec1722dde7f044831c939a6c6fa8b
+    - name: 1-Player-Bomb Guy_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 47
+        height: 55
+      spriteId: 0983a73bf6eddb34d854145753150ced
+    - name: 1-Player-Bomb Guy_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: 1
+        y: 0
+        width: 51
+        height: 50
+      spriteId: e5793c4214046cb429ebaf72ad24a1d0
+    - name: 1-Player-Bomb Guy_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 52
+        height: 53
+      spriteId: 4fa93cf5c7ba44b42b91097a33ef76de
+    - name: 1-Player-Bomb Guy_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 52
+        height: 53
+      spriteId: 75a638cd7c0f570448d3a948e498071f
+    - name: 1-Player-Bomb Guy_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: 3
+        y: 2
+        width: 52
+        height: 53
+      spriteId: f83bae29bcab7744a9d225224c413d44
+    - name: 1-Player-Bomb Guy_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 53
+      spriteId: 83f5c1974794ac84c865743b117f37fc
+    - name: 1-Player-Bomb Guy_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 53
+      spriteId: 59c1a570867764f4180af71c4c7aed27
+    - name: 1-Player-Bomb Guy_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 54
+        height: 53
+      spriteId: 5c2c7a66db4e4ab40b87f8abda2d5f46
+    - name: 1-Player-Bomb Guy_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 58
+        height: 40
+      spriteId: 340df251d9097f14589f95f2e3a0a09b
+    - name: 1-Player-Bomb Guy_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: b4c52ab8f15d615429c510292f63d1f4
+    - name: 1-Player-Bomb Guy_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 55
+        height: 53
+      spriteId: 7e10bfc4e1b036c4383a00d13a5d0c4b
+    - name: 1-Player-Bomb Guy_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: 2
+        y: 0
+        width: 48
+        height: 53
+      spriteId: edd46f21fa51158479eb32448b3aa7fb
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 58, y: 58}
